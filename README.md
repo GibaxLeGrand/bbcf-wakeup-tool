@@ -1,5 +1,5 @@
-# rev2-wakeup-tool
-Revesal-timing inputs for Guilty Gear Xrd: Revelator 2 in training mode.
+# bbcf-wakeup-tool
+Revesal-timing inputs for Blazblue Central Fiction in training mode.
 
 # How to Use:
 
